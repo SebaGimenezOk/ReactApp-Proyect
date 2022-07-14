@@ -1,6 +1,6 @@
 
 import "./components/NavBootstrap/NavBootstrap.scss"
-import "./App.scss";
+// import "./App.scss";
 // import NavBar from "./components/NavBar/NavBar";
 import NavBootstrap from "./components/NavBootstrap/NavBootstrap.js";
 
