@@ -1,8 +1,11 @@
+import './NavBar.scss'
+
+
 
 
 const NavBar = () => {
     return(
-        <div>
+        <div className= 'navbar-primary'>
         <h1>logo</h1>
         <ul>
             <li><button>Inicio</button></li>
