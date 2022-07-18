@@ -2,15 +2,22 @@
 .nav-nav{
     display: flex;
     align-items: baseline;
-    padding: 3px;
-    color: #282c34;
+    color: #e6e7e9;
+    // background-color: #282c34;
 }   
 .caja-logo{
-    width: 150px;
+    width: 100px;
     height: auto;
 }
 
-
 a{
     text-decoration: none;
+}
+
+.menu-header{
+    display: flex;
+    padding-right: 4em;
+    padding-left: 1em;
+    justify-content: space-evenly;
+    gap:3em;
 }
