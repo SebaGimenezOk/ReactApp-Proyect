@@ -1,6 +1,7 @@
 
 *{
   font-family:"quicksand";
+  
   // background-color: #282c34;
 }
 
@@ -16,3 +17,15 @@
   // color: white;
 }
 
+.main-container {
+  display: flex;
+  margin-left: 2rem;
+  margin-top: 2rem;
+  width: 100%;
+}
+.title-sections{
+  font-size: 45px;
+  font-weight: 700;
+  letter-spacing: -2.3px;
+  margin-left: 3rem;
+}

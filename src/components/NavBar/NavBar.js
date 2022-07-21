@@ -19,7 +19,7 @@ function Navegador() {
                     <Nav.Link href="#home">Producto</Nav.Link>
                     <Nav.Link href="#home">Contacto</Nav.Link>
                     
-                    </div> <i class="bi bi-cart-plus-fill"></i>
+                    </div> <i className="bi bi-cart-plus-fill"></i>
                     <div>
                     
                     </div>
