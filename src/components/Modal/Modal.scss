@@ -1,0 +1,15 @@
+.modal-custom{
+    position: fixed;
+    z-index: 1;
+    top: 50%;
+    left: 50%;
+    transform: translate(50%,50%);
+    width: 400px;
+    height: 500px;
+    background-color: aliceblue;
+    box-shadow: 1px, 5px, 5px, rgb(61, 60, 60);
+    border-radius: 5px;
+    padding: 15px;
+    
+
+}
